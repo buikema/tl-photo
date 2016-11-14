@@ -115,7 +115,7 @@ View a website on different screen sizes. [http://material.io/resizer/
 - Must buy hosting
 - Must buy ProPhoto theme $199 pay extra for additional designs
 ### Squarespace
-- Must buy Squarespace account $12 per month or $14 per month for business
+- Must buy Squarespace account $12 per month or $18 per month for business
 - Domain/hosting is free
 - Many templates
 ### ZenFolio
@@ -130,7 +130,7 @@ View a website on different screen sizes. [http://material.io/resizer/
 - A few words or phrases that characterize your business
 - Testimonials from customers
 
-### Type Pairings
+### Type Pairings - *ideas to discuss at a later time*
 Neuton / Aleo + Lato
 - Contemporary
 
