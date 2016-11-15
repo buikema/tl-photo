@@ -1,5 +1,3 @@
-- How is proofing handled? Is it all in studio? Do you want it to be online?
-
 # Tiffany Leigh Photography Website
 
 [https://www.facebook.com/tiffanyleighphotography5/
@@ -9,22 +7,7 @@
 *Prices are per year*
 
 |:-|:-|
-|  |  |
 | **tiffanyleighphotography.com**  | **$12.99** |
-| tiffanyleighphotography.work | $9.99 |
-|  |  |
-
-|  |  |
-| tiffanyleigh.photo | $29.99 |
-| tiffanyleigh.co | $25.99 |
-| tiffanyleigh.photography | $19.99 |
-| tiffanyleigh.photos | $19.99 |
-| tiffanyleigh.studio | $24.99 |
-|  |  |
-
-|  |  |
-| tiffany-leigh-photography.com	 | $12.99 |
-| tiffany-leigh.com | $12.99 |
 |  |  |
 
 ## The Competition
